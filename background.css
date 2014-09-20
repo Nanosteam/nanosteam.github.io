@@ -4,4 +4,11 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  #headline1{
+	background-image: url(images/logo.png); 
+	background-repeat: no-repeat; 
+	background-position: left top; 
+	padding-top:68px; 
+	margin-bottom:50px; 
+  } 
 }
