@@ -5,3 +5,13 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+img.logo {
+    width: 148px;
+    height: 90px;
+    background: url(images/logo.png) 0 0;
+}
+img.title{
+    width: 500px;
+    height: 125px;
+    background: url(images/title.png) 150 0;
+}
